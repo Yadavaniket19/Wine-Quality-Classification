@@ -91,5 +91,3 @@ Volatile acidity shows a negative correlation; higher volatile acidity significa
 
 ---
 ⭐️ If you found this project helpful, please consider giving it a star!
-
-⭐️ If you found this project helpful, please consider giving it a star!
