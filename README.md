@@ -83,9 +83,13 @@ Alcohol content and Sulphates generally show a positive correlation with higher 
 
 Volatile acidity shows a negative correlation; higher volatile acidity significantly degrades perceived wine quality.
 
-👤 Author
-Aniket Yadav
+---
 
-GitHub: @Yadavaniket19
+## 👤 Author
+- **Aniket Yadav**
+- GitHub: [@Yadavaniket19](https://github.com/Yadavaniket19)
+
+---
+⭐️ If you found this project helpful, please consider giving it a star!
 
 ⭐️ If you found this project helpful, please consider giving it a star!
